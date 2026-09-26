@@ -1,0 +1,4 @@
+repository "Alfabeto dos Sinais@Desenv__Games_Unifesp@cloud"
+  path "/"
+    br "/main"
+    co "/main"
